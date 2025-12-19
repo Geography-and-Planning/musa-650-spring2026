@@ -1,5 +1,7 @@
 # Geospatial Machine Learning in Remote Sensing (MUSA 650)
 
+![](public/usgs-35Z2ylLRCO8-unsplash.jpg)
+
 [Overview](#overview-and-objectives) | [Schedule](#schedule) | [Tips](#tips-for-success) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
 
 [![Join Slack](https://img.shields.io/badge/Join-Slack-blue?logo=slack)](https://join.slack.com/t/musa650spring2025/shared_invite/zt-2xlntepg4-mhmTgu10OlqMA~vvznUChA)
