@@ -4,7 +4,7 @@
 
 [Overview](#overview-and-objectives) | [Schedule](#schedule) | [Tips](#tips-for-success) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
 
-[![Join Slack](https://img.shields.io/badge/Join-Slack-blue?logo=slack)](https://join.slack.com/t/musa650spring2025/shared_invite/zt-2xlntepg4-mhmTgu10OlqMA~vvznUChA)
+[![Join Slack](https://img.shields.io/badge/Join-Slack-blue?logo=slack)](https://join.slack.com/t/musa6502026/shared_invite/zt-3monprxnr-5wpkj_4nNYGq2tiBG4qFaw)
 
 ## Overview and Objectives
 
