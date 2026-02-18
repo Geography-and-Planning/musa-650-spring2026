@@ -5,7 +5,13 @@ Slides: https://docs.google.com/presentation/d/e/2PACX-1vQvSDXR0Y9ZJuUwOCcEaIcEi
 
 ### Additional Resources
 
+[Supervised Machine Learning for Science](https://ml-science-book.com/)
 
+[MLU Explain](https://mlu-explain.github.io/)
+
+["Accuracy, Precision, and Recall in Multi-Class Classification,"](https://www.evidentlyai.com/classification-metrics/multi-class-metrics) EvidentlyAI
+
+[Mapbiomas accuracy assessment](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2024/08/ACCURACY-ASSESSMENT-Appendix-Collection-9.pdf)
 
 ### Lab: Multi-class land cover classification and model generalization
 
